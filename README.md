@@ -1,4 +1,4 @@
-# Tools-For-Colors-Palette-Generators
+# List of Tools For Colors Palette Generators
 
 ## Web
 

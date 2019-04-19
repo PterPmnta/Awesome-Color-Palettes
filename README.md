@@ -18,7 +18,7 @@
 - http://pltts.me
 - http://palette.site
 - https://material.colorion.co
-
+- https://colorkitty.com/
 
 ## MAC & iOS
 
